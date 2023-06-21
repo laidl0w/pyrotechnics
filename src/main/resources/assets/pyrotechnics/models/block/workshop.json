@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "pyrotechnics:block/workshop_button",
+    "east": "pyrotechnics:block/workshop_side1",
+    "north": "pyrotechnics:block/workshop_side2",
+    "particle": "minecraft:block/acacia_planks",
+    "south": "pyrotechnics:block/workshop_side2",
+    "up": "pyrotechnics:block/workshop_top",
+    "west": "pyrotechnics:block/workshop_side2"
+  }
+}
